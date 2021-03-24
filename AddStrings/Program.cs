@@ -11,7 +11,10 @@ namespace AddStrings
         }
 
         public static string AddStringsImpl(string num1, string num2) {
-        
+            int overFlow = 0;
+            int l1 = num1.Length;
+            int l2 = num2.Length;
+            
         }
     }
 }
