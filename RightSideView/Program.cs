@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text;
 
 namespace RightSideView
 {
@@ -27,19 +28,37 @@ namespace RightSideView
             }
         }
 
-        public static IList<int> RightSideViewImpl(TreeNode root)
+        public static IEnumerable<int> RightSideViewImpl(TreeNode root)
         {
             // level: 0, Elements: root
             // Level: 1, Elements: 2, 3
             // etc
-
+            var ans = new List<int>();
+            if (root == null) return ans;
+            Queue<TreeNode> q = new Queue<TreeNode>();
+            q.Enqueue(root);
+            while (q.Count > 0)
+            {
+                int size = q.Count;
+                for (int i = 0; i < size; i++)
+                {
+                    TreeNode node = q.Dequeue();
+                    if (i == size - 1)
+                    {
+                        ans.Add(node.val);
+                    }
+                    if (node.left != null) q.Enqueue(node.left);
+                    if (node.right != null) q.Enqueue(node.right);
+                }
+            }
+            return ans;
         }
 
         private static Dictionary<int, int> BreadthFirst(TreeNode node)
         {
             if (node == null)
             { return null; }
-            
+            throw new NotImplementedException();
         }
         public static TreeNode buildTree(List<int?> arr)
         {
