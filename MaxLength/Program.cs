@@ -10,6 +10,8 @@ namespace MaxLength
             var arr = new[] { "aa", "bcefgyh" };
             Console.WriteLine(MaxLength(arr));
         }
+
+        //https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/
         public static int MaxLength(IList<string> arr)
         {
             List<string> res = new List<string>();

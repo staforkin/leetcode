@@ -11,6 +11,7 @@ namespace SumZero
             Console.WriteLine(string.Join(";", SumZero(n)));
         }
 
+        //https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
         public static int[] SumZero(int n)
         {
             var res = new int[n];
