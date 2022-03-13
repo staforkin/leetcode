@@ -5,12 +5,17 @@ namespace AddBinary
 {
     class Program
     {
+        //https://leetcode.com/problems/add-binary/
         static void Main(string[] args)
         {
-            Console.WriteLine(AddBinaryImpl("111", "11"));
+            var solution = new Solution();
+            Console.WriteLine(solution.AddBinary("111", "11"));
         }
+    }
 
-        public static string AddBinaryImpl(string a, string b)
+    public class Solution
+    {
+        public string AddBinary(string a, string b)
         {
             //   1 1 1 = 4+2+1=7
             //     1 1 = 2+1=3
@@ -25,13 +30,17 @@ namespace AddBinary
                 int j = i - lengthDiff;
                 var t = j < 0 ? (char.GetNumericValue(first[i]) + overflow) : (char.GetNumericValue(first[i]) + char.GetNumericValue(second[j]) + overflow);
                 overflow = t >= 2 ? 1 : 0;
-                if(t>2 || t==1 ){
+                if (t > 2 || t == 1)
+                {
                     sb.Append('1');
-                } else {
+                }
+                else
+                {
                     sb.Append('0');
                 }
             }
-            if(overflow > 0){
+            if (overflow > 0)
+            {
                 sb.Append('1');
             }
             var arr = sb.ToString().ToCharArray();
