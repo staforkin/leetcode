@@ -6,3 +6,4 @@ List of problems solved:
 - [Add binary](https://leetcode.com/problems/add-binary)
 - [Add strings](https://leetcode.com/problems/add-strings)
 - [Add two numbers](https://leetcode.com/problems/add-two-numbers)
+- [Generate parenthesis](https://leetcode.com/problems/generate-parentheses)
