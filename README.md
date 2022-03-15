@@ -7,3 +7,4 @@ List of problems solved:
 - [Add strings](https://leetcode.com/problems/add-strings)
 - [Add two numbers](https://leetcode.com/problems/add-two-numbers)
 - [Generate parenthesis](https://leetcode.com/problems/generate-parentheses)
+- [Merge K sorted lists](https://leetcode.com/problems/merge-k-sorted-lists)
