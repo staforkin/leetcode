@@ -9,3 +9,4 @@ List of problems solved:
 - [Generate parenthesis](https://leetcode.com/problems/generate-parentheses)
 - [Merge K sorted lists](https://leetcode.com/problems/merge-k-sorted-lists)
 - [Implement strStr()](https://leetcode.com/problems/implement-strstr)
+- [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
