@@ -13,3 +13,4 @@ List of problems solved:
 - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku)
 - [First Missing Positive](https://leetcode.com/problems/first-missing-positive)
 - [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
+- [Wildcard Matching](https://leetcode.com/problems/wildcard-matching)
