@@ -14,3 +14,4 @@ List of problems solved:
 - [First Missing Positive](https://leetcode.com/problems/first-missing-positive)
 - [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
 - [Wildcard Matching](https://leetcode.com/problems/wildcard-matching)
+- [Rotate Image](https://leetcode.com/problems/rotate-image)
