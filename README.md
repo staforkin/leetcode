@@ -16,3 +16,4 @@ List of problems solved:
 - [Wildcard Matching](https://leetcode.com/problems/wildcard-matching)
 - [Rotate Image](https://leetcode.com/problems/rotate-image)
 - [Permutations](https://leetcode.com/problems/permutations)
+- [Group Anagrams](https://leetcode.com/problems/group-anagrams)
