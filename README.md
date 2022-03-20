@@ -15,3 +15,4 @@ List of problems solved:
 - [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
 - [Wildcard Matching](https://leetcode.com/problems/wildcard-matching)
 - [Rotate Image](https://leetcode.com/problems/rotate-image)
+- [Permutations](https://leetcode.com/problems/permutations)
