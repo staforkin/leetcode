@@ -17,3 +17,4 @@ List of problems solved:
 - [Rotate Image](https://leetcode.com/problems/rotate-image)
 - [Permutations](https://leetcode.com/problems/permutations)
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams)
+- [Pow(x, n)](https://leetcode.com/problems/powx-n)
