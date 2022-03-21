@@ -19,3 +19,4 @@ List of problems solved:
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams)
 - [Pow(x, n)](https://leetcode.com/problems/powx-n)
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
+- [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)
