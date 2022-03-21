@@ -14,5 +14,8 @@ List of problems solved:
 - [First Missing Positive](https://leetcode.com/problems/first-missing-positive)
 - [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
 - [Wildcard Matching](https://leetcode.com/problems/wildcard-matching)
+- [Rotate Image](https://leetcode.com/problems/rotate-image)
 - [Permutations](https://leetcode.com/problems/permutations)
+- [Group Anagrams](https://leetcode.com/problems/group-anagrams)
+- [Pow(x, n)](https://leetcode.com/problems/powx-n)
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
