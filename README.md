@@ -21,3 +21,4 @@ List of problems solved:
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
 - [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)
 - [Jump Game](https://leetcode.com/problems/jump-game)
+- [Merge Intervals](https://leetcode.com/problems/merge-intervals)
