@@ -20,3 +20,4 @@ List of problems solved:
 - [Pow(x, n)](https://leetcode.com/problems/powx-n)
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
 - [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)
+- [Jump Game](https://leetcode.com/problems/jump-game)
