@@ -22,3 +22,4 @@ List of problems solved:
 - [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)
 - [Jump Game](https://leetcode.com/problems/jump-game)
 - [Merge Intervals](https://leetcode.com/problems/merge-intervals)
+- [Unique Paths](https://leetcode.com/problems/unique-paths)
