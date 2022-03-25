@@ -24,3 +24,4 @@ List of problems solved:
 - [Merge Intervals](https://leetcode.com/problems/merge-intervals)
 - [Unique Paths](https://leetcode.com/problems/unique-paths)
 - [Sqrt(x)](https://leetcode.com/problems/sqrtx)
+- [Climb Stairs](https://leetcode.com/problems/climbing-stairs)
