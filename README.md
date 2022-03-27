@@ -25,3 +25,4 @@ List of problems solved:
 - [Unique Paths](https://leetcode.com/problems/unique-paths)
 - [Sqrt(x)](https://leetcode.com/problems/sqrtx)
 - [Climb Stairs](https://leetcode.com/problems/climbing-stairs)
+- [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)
