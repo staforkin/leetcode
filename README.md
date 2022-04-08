@@ -26,3 +26,4 @@ List of problems solved:
 - [Sqrt(x)](https://leetcode.com/problems/sqrtx)
 - [Climb Stairs](https://leetcode.com/problems/climbing-stairs)
 - [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)
+- [Sort Colors](https://leetcode.com/problems/sort-colors)
