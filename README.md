@@ -27,3 +27,5 @@ List of problems solved:
 - [Climb Stairs](https://leetcode.com/problems/climbing-stairs)
 - [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)
 - [Sort Colors](https://leetcode.com/problems/sort-colors)
+- [Subsets](https://leetcode.com/problems/subsets)
+- [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)
