@@ -29,3 +29,4 @@ List of problems solved:
 - [Sort Colors](https://leetcode.com/problems/sort-colors)
 - [Subsets](https://leetcode.com/problems/subsets)
 - [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)
+- [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list)
