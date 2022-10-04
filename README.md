@@ -30,3 +30,5 @@ List of problems solved:
 - [Subsets](https://leetcode.com/problems/subsets)
 - [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)
 - [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list)
+- [Maximum depth of binary tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
+- [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description)
