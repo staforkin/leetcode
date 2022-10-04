@@ -32,3 +32,4 @@ List of problems solved:
 - [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list)
 - [Maximum depth of binary tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
 - [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description)
+- [Reverse linked list](https://leetcode.com/problems/reverse-linked-list)
