@@ -34,3 +34,4 @@ List of problems solved:
 - [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description)
 - [Reverse linked list](https://leetcode.com/problems/reverse-linked-list)
 - [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)
+- [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)
