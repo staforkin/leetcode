@@ -33,3 +33,4 @@ List of problems solved:
 - [Maximum depth of binary tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
 - [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description)
 - [Reverse linked list](https://leetcode.com/problems/reverse-linked-list)
+- [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)
