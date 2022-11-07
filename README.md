@@ -36,3 +36,7 @@ List of problems solved:
 - [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)
 - [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)
 - [Fizz Buzz](https://leetcode.com/problems/fizz-buzz)
+- [Longest Palindrome](https://leetcode.com/problems/longest-palindromic-substring)
+- [Number of 1 bits](https://leetcode.com/problems/number-of-1-bits)
+- [Majority Element](https://leetcode.com/problems/majority-element)
+- [Valid Anagram](https://leetcode.com/problems/valid-anagram)
