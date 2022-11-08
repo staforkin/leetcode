@@ -40,3 +40,4 @@ List of problems solved:
 - [Number of 1 bits](https://leetcode.com/problems/number-of-1-bits)
 - [Majority Element](https://leetcode.com/problems/majority-element)
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram)
+- [Missing number](https://leetcode.com/problems/missing-number)
