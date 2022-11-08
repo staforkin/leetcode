@@ -41,3 +41,4 @@ List of problems solved:
 - [Majority Element](https://leetcode.com/problems/majority-element)
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram)
 - [Missing number](https://leetcode.com/problems/missing-number)
+- [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)
