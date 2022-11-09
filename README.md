@@ -44,3 +44,4 @@ List of problems solved:
 - [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)
 - [Move Zeroes](https://leetcode.com/problems/move-zeroes)
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
+- [Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
