@@ -43,3 +43,4 @@ List of problems solved:
 - [Missing number](https://leetcode.com/problems/missing-number)
 - [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)
 - [Move Zeroes](https://leetcode.com/problems/move-zeroes)
+- [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
