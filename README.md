@@ -45,3 +45,5 @@ List of problems solved:
 - [Move Zeroes](https://leetcode.com/problems/move-zeroes)
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
 - [Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
+- [Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+- [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
