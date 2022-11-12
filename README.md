@@ -48,3 +48,4 @@ List of problems solved:
 - [Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
+- [Intersection Of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)
