@@ -50,3 +50,4 @@ List of problems solved:
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
 - [Intersection Of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)
 - [Intersection Of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays-ii)
+- [Happy Number](https://leetcode.com/problems/happy-number)
