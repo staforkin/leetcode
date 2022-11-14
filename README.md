@@ -51,3 +51,4 @@ List of problems solved:
 - [Intersection Of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)
 - [Intersection Of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays-ii)
 - [Happy Number](https://leetcode.com/problems/happy-number)
+- [Reverse Bits](https://leetcode.com/problems/reverse-bits)
