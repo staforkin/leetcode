@@ -52,3 +52,4 @@ List of problems solved:
 - [Intersection Of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays-ii)
 - [Happy Number](https://leetcode.com/problems/happy-number)
 - [Reverse Bits](https://leetcode.com/problems/reverse-bits)
+- [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)
