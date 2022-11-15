@@ -53,3 +53,4 @@ List of problems solved:
 - [Happy Number](https://leetcode.com/problems/happy-number)
 - [Reverse Bits](https://leetcode.com/problems/reverse-bits)
 - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)
+- [Power Of Three](https://leetcode.com/problems/power-of-three)
