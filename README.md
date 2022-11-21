@@ -62,3 +62,4 @@ List of problems solved:
 - [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)
 - [Count And Say](https://leetcode.com/problems/count-and-say)
 - [Word Search](https://leetcode.com/problems/word-search)
+- [Decode Ways](https://leetcode.com/problems/decode-ways)
