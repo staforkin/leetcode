@@ -64,3 +64,4 @@ List of problems solved:
 - [Word Search](https://leetcode.com/problems/word-search)
 - [Decode Ways](https://leetcode.com/problems/decode-ways)
 - [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)
+- [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)
