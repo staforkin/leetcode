@@ -68,3 +68,4 @@ List of problems solved:
 - [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)
 - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)
 - [Surrounded Regions](https://leetcode.com/problems/surrounded-regions)
+- [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer)
