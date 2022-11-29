@@ -69,3 +69,4 @@ List of problems solved:
 - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)
 - [Surrounded Regions](https://leetcode.com/problems/surrounded-regions)
 - [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer)
+- [Word Break](https://leetcode.com/problems/word-break)
