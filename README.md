@@ -70,3 +70,4 @@ List of problems solved:
 - [Surrounded Regions](https://leetcode.com/problems/surrounded-regions)
 - [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer)
 - [Word Break](https://leetcode.com/problems/word-break)
+- [Sort List](https://leetcode.com/problems/sort-list)
