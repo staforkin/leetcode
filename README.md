@@ -71,3 +71,4 @@ List of problems solved:
 - [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer)
 - [Word Break](https://leetcode.com/problems/word-break)
 - [Sort List](https://leetcode.com/problems/sort-list)
+- [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike)
