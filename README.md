@@ -74,3 +74,4 @@ List of problems solved:
 - [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike)
 - [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)
 - [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close)
+- [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency)
