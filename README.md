@@ -75,3 +75,4 @@ List of problems solved:
 - [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)
 - [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close)
 - [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency)
+- [Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference)
