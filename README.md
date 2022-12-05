@@ -76,3 +76,4 @@ List of problems solved:
 - [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close)
 - [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency)
 - [Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference)
+- [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)
