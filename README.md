@@ -77,3 +77,4 @@ List of problems solved:
 - [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency)
 - [Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference)
 - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)
+- [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list)
