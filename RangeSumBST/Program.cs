@@ -1,50 +1,37 @@
-﻿using System;
+﻿var solution = new Solution();
+var root = new TreeNode(10);
+root.left = new TreeNode(5);
+root.right = new TreeNode(15);
+root.left.left = new TreeNode(3);
+root.left.right = new TreeNode(7);
+root.right.right = new TreeNode(18);
 
-namespace RangeSumBST
+Console.WriteLine(solution.RangeSumBST(root, 7, 15));
+
+// https://leetcode.com/problems/range-sum-of-bst
+public class Solution
 {
-    class Program
+    public int RangeSumBST(TreeNode root, int low, int high)
     {
-        private static int Sum = 0;
-        static void Main(string[] args)
+        if (root == null)
         {
-            Sum = 0;
-            Console.WriteLine("Hello World!");
+            return 0;
         }
-
-        public static int RangeSumBSTImpl(TreeNode root, int low, int high)
-        {
-            Helper(root, low, high);
-            return Sum;
-        }
-        public static void Helper(TreeNode node, int low, int high)
-        {
-            if (node == null)
-                return;
-            if (node.val >= low && node.val <= high)
-            {
-                Sum += node.val;
-            }
-            if (node.val > low)
-            {
-                Helper(node.left, low, high);
-            }
-            if (node.val < high)
-            {
-                Helper(node.right, low, high);
-            }
-        }
+        return root.val >= low && root.val <= high
+            ? root.val + RangeSumBST(root.left, low, high) + RangeSumBST(root.right, low, high)
+            : RangeSumBST(root.left, low, high) + RangeSumBST(root.right, low, high);
     }
+}
 
-    public class TreeNode
+public class TreeNode
+{
+    public int val;
+    public TreeNode left;
+    public TreeNode right;
+    public TreeNode(int val = 0, TreeNode left = null, TreeNode right = null)
     {
-        public int val;
-        public TreeNode left;
-        public TreeNode right;
-        public TreeNode(int val = 0, TreeNode left = null, TreeNode right = null)
-        {
-            this.val = val;
-            this.left = left;
-            this.right = right;
-        }
+        this.val = val;
+        this.left = left;
+        this.right = right;
     }
 }

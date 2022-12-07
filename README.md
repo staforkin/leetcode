@@ -78,3 +78,4 @@ List of problems solved:
 - [Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference)
 - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)
 - [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list)
+- [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)
