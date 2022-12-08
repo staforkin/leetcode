@@ -79,3 +79,4 @@ List of problems solved:
 - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)
 - [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list)
 - [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)
+- [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees)
