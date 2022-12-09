@@ -80,3 +80,4 @@ List of problems solved:
 - [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list)
 - [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)
 - [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees)
+- [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor)
