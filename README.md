@@ -81,3 +81,4 @@ List of problems solved:
 - [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)
 - [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees)
 - [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor)
+- [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree)
