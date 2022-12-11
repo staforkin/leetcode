@@ -82,3 +82,4 @@ List of problems solved:
 - [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees)
 - [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor)
 - [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)
+- [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree)
