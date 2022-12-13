@@ -11,6 +11,16 @@ public class Solution
 {
     public int MinFallingPathSum(int[][] matrix)
     {
-        return 0;
+        for (int i = 1; i < matrix.Length; ++i) // start from second row
+        {
+            for (int j = 0; j < matrix.Length; ++j)
+            {
+                matrix[i][j] += Math.Min(
+                    matrix[i - 1][j], // above
+                    Math.Min(matrix[i - 1][Math.Max(0, j - 1)], // up to the left
+                    matrix[i - 1][Math.Min(matrix.Length - 1, j + 1)])); // up to the right
+            }
+        }
+        return matrix.Last().Min();
     }
 }
