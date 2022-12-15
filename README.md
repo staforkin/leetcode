@@ -86,3 +86,4 @@ List of problems solved:
 - [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)
 - [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum)
 - [House Robber](https://leetcode.com/problems/house-robber)
+- [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)
