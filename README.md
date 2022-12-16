@@ -87,3 +87,4 @@ List of problems solved:
 - [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum)
 - [House Robber](https://leetcode.com/problems/house-robber)
 - [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)
+- [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)
