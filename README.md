@@ -89,3 +89,4 @@ List of problems solved:
 - [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)
 - [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)
 - [Find Center Of Star Graph](https://leetcode.com/problems/find-center-of-star-graph)
+- [Search Insert Position](https://leetcode.com/problems/search-insert-position)
