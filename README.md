@@ -91,3 +91,4 @@ List of problems solved:
 - [Find Center Of Star Graph](https://leetcode.com/problems/find-center-of-star-graph)
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position)
 - [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)
+- [Find Peak Element](https://leetcode.com/problems/find-peak-element)
