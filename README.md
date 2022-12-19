@@ -92,3 +92,4 @@ List of problems solved:
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position)
 - [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)
 - [Find Peak Element](https://leetcode.com/problems/find-peak-element)
+- [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph)
