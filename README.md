@@ -94,3 +94,4 @@ List of problems solved:
 - [Find Peak Element](https://leetcode.com/problems/find-peak-element)
 - [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph)
 - [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms)
+- [Possible Bipartition](https://leetcode.com/problems/possible-bipartition)
