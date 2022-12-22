@@ -96,3 +96,4 @@ List of problems solved:
 - [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms)
 - [Possible Bipartition](https://leetcode.com/problems/possible-bipartition)
 - [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree)
+- [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
