@@ -95,3 +95,4 @@ List of problems solved:
 - [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph)
 - [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms)
 - [Possible Bipartition](https://leetcode.com/problems/possible-bipartition)
+- [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree)
