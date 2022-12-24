@@ -99,3 +99,4 @@ List of problems solved:
 - [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
 - [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown)
 - [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling)
+- [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)
