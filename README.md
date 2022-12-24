@@ -98,3 +98,4 @@ List of problems solved:
 - [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree)
 - [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
 - [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown)
+- [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling)
