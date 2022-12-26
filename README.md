@@ -101,3 +101,4 @@ List of problems solved:
 - [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling)
 - [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)
 - [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum)
+- [Next Permutation](https://leetcode.com/problems/next-permutation)
