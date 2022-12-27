@@ -102,3 +102,4 @@ List of problems solved:
 - [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)
 - [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum)
 - [Next Permutation](https://leetcode.com/problems/next-permutation)
+- [Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks)

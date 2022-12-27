@@ -8,6 +8,22 @@ public class Solution
 {
     public int MaximumBags(int[] capacity, int[] rocks, int additionalRocks)
     {
-
+        var n = capacity.Length;
+        var diff = new int[n];
+        for (int i = 0; i < n; i++)
+        {
+            diff[i] = capacity[i] - rocks[i];
+        }
+        Array.Sort(diff);
+        int result = default;
+        foreach (var item in diff)
+        {
+            if (additionalRocks >= item)
+            {
+                additionalRocks = additionalRocks - item;
+                result++;
+            }
+        }
+        return result;
     }
 }
