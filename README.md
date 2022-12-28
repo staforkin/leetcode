@@ -103,3 +103,4 @@ List of problems solved:
 - [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum)
 - [Next Permutation](https://leetcode.com/problems/next-permutation)
 - [Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks)
+- [Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total)
