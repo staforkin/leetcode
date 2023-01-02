@@ -108,3 +108,4 @@ List of problems solved:
 - [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target)
 - [Combination Sum](https://leetcode.com/problems/combination-sum)
 - [Jump Game II](https://leetcode.com/problems/jump-game-ii)
+- [Detect Capital](https://leetcode.com/problems/detect-capital)
