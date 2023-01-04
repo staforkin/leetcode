@@ -110,3 +110,4 @@ List of problems solved:
 - [Jump Game II](https://leetcode.com/problems/jump-game-ii)
 - [Detect Capital](https://leetcode.com/problems/detect-capital)
 - [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted)
+- [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)
