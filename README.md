@@ -112,3 +112,4 @@ List of problems solved:
 - [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted)
 - [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)
 - [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)
+- [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars)
