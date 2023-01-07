@@ -113,3 +113,4 @@ List of problems solved:
 - [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)
 - [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)
 - [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars)
+- [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)
