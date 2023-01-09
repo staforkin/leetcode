@@ -15,7 +15,20 @@ public class Solution
 {
     public IList<int> PreorderTraversal(TreeNode root)
     {
-        
+        var res = new List<int>();
+        var stack = new Stack<TreeNode>();
+        stack.Push(root);
+        while (stack.Any())
+        {
+            var popped = stack.Pop();
+            if (popped != null)
+            {
+                res.Add(popped.val);
+                stack.Push(popped.right);
+                stack.Push(popped.left);
+            }
+        }
+        return res;
     }
 }
 
