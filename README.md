@@ -115,3 +115,4 @@ List of problems solved:
 - [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars)
 - [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)
 - [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)
+- [Same Tree](https://leetcode.com/problems/same-tree)
