@@ -117,3 +117,4 @@ List of problems solved:
 - [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)
 - [Same Tree](https://leetcode.com/problems/same-tree)
 - [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation)
+- [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)
