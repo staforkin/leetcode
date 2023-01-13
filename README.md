@@ -118,3 +118,4 @@ List of problems solved:
 - [Same Tree](https://leetcode.com/problems/same-tree)
 - [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation)
 - [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)
+- [Palindrome Number](https://leetcode.com/problems/palindrome-number)
