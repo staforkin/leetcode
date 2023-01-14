@@ -119,3 +119,4 @@ List of problems solved:
 - [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation)
 - [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)
 - [Palindrome Number](https://leetcode.com/problems/palindrome-number)
+- [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string)
