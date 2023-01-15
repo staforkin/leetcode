@@ -120,3 +120,4 @@ List of problems solved:
 - [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)
 - [Palindrome Number](https://leetcode.com/problems/palindrome-number)
 - [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string)
+- [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice)
