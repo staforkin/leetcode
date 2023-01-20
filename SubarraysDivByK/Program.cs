@@ -12,7 +12,6 @@ public class Solution
         foreach (int a in nums)
         {
             prefix = (prefix + a % k + k) % k;
-            Console.WriteLine(prefix);
             res += count[prefix]++;
         }
         return res;
