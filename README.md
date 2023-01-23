@@ -128,3 +128,4 @@ List of problems solved:
 - [Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences)
 - [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses)
 - [Combination Sum II](https://leetcode.com/problems/combination-sum-ii)
+- [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge)
