@@ -129,3 +129,4 @@ List of problems solved:
 - [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses)
 - [Combination Sum II](https://leetcode.com/problems/combination-sum-ii)
 - [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge)
+- [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders)
