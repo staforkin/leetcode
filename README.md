@@ -133,3 +133,4 @@ List of problems solved:
 - [Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes)
 - [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops)
 - [Concatenated Words](https://leetcode.com/problems/concatenated-words)
+- [Remove Element](https://leetcode.com/problems/remove-element)
