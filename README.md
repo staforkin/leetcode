@@ -135,3 +135,4 @@ List of problems solved:
 - [Concatenated Words](https://leetcode.com/problems/concatenated-words)
 - [Remove Element](https://leetcode.com/problems/remove-element)
 - [Length of Last Word](https://leetcode.com/problems/length-of-last-word)
+- [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)
