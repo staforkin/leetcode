@@ -136,3 +136,4 @@ List of problems solved:
 - [Remove Element](https://leetcode.com/problems/remove-element)
 - [Length of Last Word](https://leetcode.com/problems/length-of-last-word)
 - [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)
+- [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)
