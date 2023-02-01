@@ -11,7 +11,13 @@ public class Solution
 {
     public int MinDepth(TreeNode root)
     {
-
+        if (root == null)
+        {
+            return 0;
+        }
+        var left = MinDepth(root.left);
+        var right = MinDepth(root.right);
+        return (left == 0 || right == 0) ? left + right + 1 : Math.Min(left, right) + 1;
     }
 }
 
