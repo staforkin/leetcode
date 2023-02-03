@@ -139,3 +139,4 @@ List of problems solved:
 - [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)
 - [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)
 - [Path Sum](https://leetcode.com/problems/path-sum)
+- [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)
