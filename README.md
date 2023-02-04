@@ -140,3 +140,4 @@ List of problems solved:
 - [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)
 - [Path Sum](https://leetcode.com/problems/path-sum)
 - [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)
+- [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)
