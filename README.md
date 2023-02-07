@@ -143,3 +143,4 @@ List of problems solved:
 - [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)
 - [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)
 - [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array)
+- [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets)
