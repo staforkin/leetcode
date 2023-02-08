@@ -144,3 +144,4 @@ List of problems solved:
 - [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)
 - [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array)
 - [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets)
+- [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title)
