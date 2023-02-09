@@ -145,3 +145,4 @@ List of problems solved:
 - [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array)
 - [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets)
 - [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title)
+- [Naming a Company](https://leetcode.com/problems/naming-a-company)
