@@ -146,3 +146,4 @@ List of problems solved:
 - [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets)
 - [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title)
 - [Naming a Company](https://leetcode.com/problems/naming-a-company)
+- [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible)
