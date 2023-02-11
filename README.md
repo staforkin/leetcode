@@ -147,3 +147,4 @@ List of problems solved:
 - [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title)
 - [Naming a Company](https://leetcode.com/problems/naming-a-company)
 - [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible)
+- [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements)
