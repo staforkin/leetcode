@@ -148,3 +148,4 @@ List of problems solved:
 - [Naming a Company](https://leetcode.com/problems/naming-a-company)
 - [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible)
 - [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements)
+- [Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital)
