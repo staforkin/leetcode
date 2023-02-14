@@ -149,4 +149,5 @@ List of problems solved:
 - [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible)
 - [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements)
 - [Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital)
- - [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range)
+- [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range)
+- [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)
