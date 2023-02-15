@@ -151,3 +151,4 @@ List of problems solved:
 - [Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital)
 - [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range)
 - [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)
+- [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer)
