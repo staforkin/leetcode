@@ -9,9 +9,24 @@ Console.WriteLine(solution.MinDiffInBST(root));
 // https://leetcode.com/problems/minimum-distance-between-bst-nodes
 public class Solution
 {
+    int res = int.MaxValue;
+    int? pre = null;
     public int MinDiffInBST(TreeNode root)
     {
-
+        if (root.left != null)
+        {
+            MinDiffInBST(root.left);
+        }
+        if (pre.HasValue)
+        {
+            res = Math.Min(res, root.val - pre.Value);
+        }
+        pre = root.val;
+        if (root.right != null)
+        {
+            MinDiffInBST(root.right);
+        }
+        return res;
     }
 }
 
