@@ -155,3 +155,4 @@ List of problems solved:
 - [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)
 - [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes)
 - [Summary Ranges](https://leetcode.com/problems/summary-ranges)
+- [Power of Two](https://leetcode.com/problems/power-of-two)
