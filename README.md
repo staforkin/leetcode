@@ -156,3 +156,4 @@ List of problems solved:
 - [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes)
 - [Summary Ranges](https://leetcode.com/problems/summary-ranges)
 - [Power of Two](https://leetcode.com/problems/power-of-two)
+- [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)

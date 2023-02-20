@@ -13,7 +13,28 @@ public class Solution
 {
     public IList<string> BinaryTreePaths(TreeNode root)
     {
+        var res = new List<string>();
+        if (root != null)
+        {
+            searchBT(root, "", res);
+        }
+        return res;
+    }
+    private void searchBT(TreeNode root, string path, List<string> res)
+    {
+        if (root.left == null && root.right == null)
+        {
+            res.Add(path + root.val);
+        }
 
+        if (root.left != null)
+        {
+            searchBT(root.left, path + root.val + "->", res);
+        }
+        if (root.right != null)
+        {
+            searchBT(root.right, path + root.val + "->", res);
+        }
     }
 }
 
