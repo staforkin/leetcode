@@ -157,3 +157,4 @@ List of problems solved:
 - [Summary Ranges](https://leetcode.com/problems/summary-ranges)
 - [Power of Two](https://leetcode.com/problems/power-of-two)
 - [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)
+- [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array)
