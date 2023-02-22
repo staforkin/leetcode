@@ -158,3 +158,4 @@ List of problems solved:
 - [Power of Two](https://leetcode.com/problems/power-of-two)
 - [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)
 - [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array)
+- [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days)
