@@ -160,3 +160,4 @@ List of problems solved:
 - [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array)
 - [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days)
 - [Add Digits](https://leetcode.com/problems/add-digits)
+- [Ugly Number](https://leetcode.com/problems/ugly-number)
