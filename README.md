@@ -161,3 +161,4 @@ List of problems solved:
 - [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days)
 - [Add Digits](https://leetcode.com/problems/add-digits)
 - [Ugly Number](https://leetcode.com/problems/ugly-number)
+- [Word Pattern](https://leetcode.com/problems/word-pattern)
