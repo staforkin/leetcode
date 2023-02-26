@@ -162,3 +162,4 @@ List of problems solved:
 - [Add Digits](https://leetcode.com/problems/add-digits)
 - [Ugly Number](https://leetcode.com/problems/ugly-number)
 - [Word Pattern](https://leetcode.com/problems/word-pattern)
+- [Nim Game](https://leetcode.com/problems/nim-game)
