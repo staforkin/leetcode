@@ -163,3 +163,4 @@ List of problems solved:
 - [Ugly Number](https://leetcode.com/problems/ugly-number)
 - [Word Pattern](https://leetcode.com/problems/word-pattern)
 - [Nim Game](https://leetcode.com/problems/nim-game)
+- [Integer to Roman](https://leetcode.com/problems/integer-to-roman)
