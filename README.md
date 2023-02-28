@@ -164,3 +164,4 @@ List of problems solved:
 - [Word Pattern](https://leetcode.com/problems/word-pattern)
 - [Nim Game](https://leetcode.com/problems/nim-game)
 - [Integer to Roman](https://leetcode.com/problems/integer-to-roman)
+- [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees)
