@@ -165,3 +165,4 @@ List of problems solved:
 - [Nim Game](https://leetcode.com/problems/nim-game)
 - [Integer to Roman](https://leetcode.com/problems/integer-to-roman)
 - [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees)
+- [Sort an Array](https://leetcode.com/problems/sort-an-array)
