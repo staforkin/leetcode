@@ -166,3 +166,4 @@ List of problems solved:
 - [Integer to Roman](https://leetcode.com/problems/integer-to-roman)
 - [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees)
 - [Sort an Array](https://leetcode.com/problems/sort-an-array)
+- [String Compression](https://leetcode.com/problems/string-compression)
