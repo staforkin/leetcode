@@ -167,3 +167,4 @@ List of problems solved:
 - [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees)
 - [Sort an Array](https://leetcode.com/problems/sort-an-array)
 - [String Compression](https://leetcode.com/problems/string-compression)
+- [3Sum Closest](https://leetcode.com/problems/3sum-closest/description)
