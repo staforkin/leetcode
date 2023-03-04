@@ -168,3 +168,4 @@ List of problems solved:
 - [Sort an Array](https://leetcode.com/problems/sort-an-array)
 - [String Compression](https://leetcode.com/problems/string-compression)
 - [3Sum Closest](https://leetcode.com/problems/3sum-closest/description)
+- [4Sum](https://leetcode.com/problems/4sum)
