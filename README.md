@@ -170,3 +170,4 @@ List of problems solved:
 - [3Sum Closest](https://leetcode.com/problems/3sum-closest/description)
 - [4Sum](https://leetcode.com/problems/4sum)
 - [Counting Bits](https://leetcode.com/problems/counting-bits)
+- [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number)
