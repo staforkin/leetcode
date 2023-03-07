@@ -171,3 +171,4 @@ List of problems solved:
 - [4Sum](https://leetcode.com/problems/4sum)
 - [Counting Bits](https://leetcode.com/problems/counting-bits)
 - [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number)
+- [Multiply Strings](https://leetcode.com/problems/multiply-strings)
