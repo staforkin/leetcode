@@ -172,3 +172,4 @@ List of problems solved:
 - [Counting Bits](https://leetcode.com/problems/counting-bits)
 - [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number)
 - [Multiply Strings](https://leetcode.com/problems/multiply-strings)
+- [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)
