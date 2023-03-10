@@ -174,3 +174,4 @@ List of problems solved:
 - [Multiply Strings](https://leetcode.com/problems/multiply-strings)
 - [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)
 - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)
+- [Permutations II](https://leetcode.com/problems/permutations-ii)
