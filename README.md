@@ -175,3 +175,4 @@ List of problems solved:
 - [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)
 - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)
 - [Permutations II](https://leetcode.com/problems/permutations-ii)
+- [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)
