@@ -176,3 +176,4 @@ List of problems solved:
 - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)
 - [Permutations II](https://leetcode.com/problems/permutations-ii)
 - [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)
+- [Rotate List](https://leetcode.com/problems/rotate-list)
