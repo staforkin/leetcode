@@ -177,3 +177,4 @@ List of problems solved:
 - [Permutations II](https://leetcode.com/problems/permutations-ii)
 - [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)
 - [Rotate List](https://leetcode.com/problems/rotate-list)
+- [Unique Paths II](https://leetcode.com/problems/unique-paths-ii)
