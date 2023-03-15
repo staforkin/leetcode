@@ -179,3 +179,4 @@ List of problems solved:
 - [Rotate List](https://leetcode.com/problems/rotate-list)
 - [Unique Paths II](https://leetcode.com/problems/unique-paths-ii)
 - [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)
+- [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree)

@@ -12,7 +12,19 @@ public class Solution
 {
     public bool IsCompleteTree(TreeNode root)
     {
-
+        var bfs = new Queue<TreeNode>();
+        bfs.Enqueue(root);
+        while (bfs.Peek() != null)
+        {
+            TreeNode node = bfs.Dequeue();
+            bfs.Enqueue(node.left);
+            bfs.Enqueue(node.right);
+        }
+        while (bfs.Count>0 && bfs.Peek() == null)
+        {
+            bfs.Dequeue();
+        }
+        return bfs.Count==0;
     }
 }
 
