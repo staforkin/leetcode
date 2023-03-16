@@ -180,3 +180,4 @@ List of problems solved:
 - [Unique Paths II](https://leetcode.com/problems/unique-paths-ii)
 - [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)
 - [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree)
+- [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)
