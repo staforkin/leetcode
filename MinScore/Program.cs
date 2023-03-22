@@ -11,6 +11,40 @@ public class Solution
 {
     public int MinScore(int n, int[][] roads)
     {
+        int ans = int.MaxValue;
+        var gr = new List<List<(int, int)>>();
+        for (int i = 0; i < n + 1; i++)
+        {
+            gr.Add(new List<(int, int)>());
+        }
 
+        foreach (int[] edge in roads)
+        {
+            gr[edge[0]].Add(new (edge[1], edge[2])); // u-> {v, dis}
+            gr[edge[1]].Add(new (edge[0], edge[2])); // v-> {u, dis}
+        }
+
+        int[] vis = new int[n + 1];
+        Array.Fill(vis, 0);
+        var q = new Queue<int>();
+        q.Enqueue(1);
+        vis[1] = 1;
+        while (q.Any())
+        {
+            int node = q.Dequeue();
+            foreach (var pair in gr[node])
+            {
+                int v = pair.Item1;
+                int dis = pair.Item2;
+                ans = Math.Min(ans, dis);
+                if (vis[v] == 0)
+                {
+                    vis[v] = 1;
+                    q.Enqueue(v);
+                }
+            }
+        }
+
+        return ans;
     }
 }
