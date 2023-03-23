@@ -187,3 +187,4 @@ List of problems solved:
 - [Can Place Flowers](https://leetcode.com/problems/can-place-flowers)
 - [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays)
 - [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities)
+- [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected)
