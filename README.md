@@ -1,4 +1,4 @@
-# leetcode
+ leetcode
 My (and copypasted) solutions for leetcode problems.
 List of problems solved:
 - [Remove Nth node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
@@ -188,3 +188,4 @@ List of problems solved:
 - [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays)
 - [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities)
 - [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected)
+- [Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero)
