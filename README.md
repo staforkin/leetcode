@@ -191,3 +191,4 @@ List of problems solved:
 - [Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero)
 - [Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph)
 - [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph)
+- [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)
