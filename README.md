@@ -192,3 +192,4 @@ List of problems solved:
 - [Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph)
 - [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)
+- [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets)
