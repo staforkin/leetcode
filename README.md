@@ -193,3 +193,4 @@ List of problems solved:
 - [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)
 - [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets)
+- [Reducing Dishes](https://leetcode.com/problems/reducing-dishes)
