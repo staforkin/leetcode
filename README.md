@@ -194,3 +194,4 @@ List of problems solved:
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)
 - [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets)
 - [Reducing Dishes](https://leetcode.com/problems/reducing-dishes)
+- [Scramble String](https://leetcode.com/problems/scramble-string)
