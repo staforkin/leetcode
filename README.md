@@ -195,3 +195,4 @@ List of problems solved:
 - [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets)
 - [Reducing Dishes](https://leetcode.com/problems/reducing-dishes)
 - [Scramble String](https://leetcode.com/problems/scramble-string)
+- [Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza)
