@@ -196,3 +196,4 @@ List of problems solved:
 - [Reducing Dishes](https://leetcode.com/problems/reducing-dishes)
 - [Scramble String](https://leetcode.com/problems/scramble-string)
 - [Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza)
+- [Binary Search](https://leetcode.com/problems/binary-search)
