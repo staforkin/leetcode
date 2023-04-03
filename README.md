@@ -198,3 +198,4 @@ List of problems solved:
 - [Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza)
 - [Binary Search](https://leetcode.com/problems/binary-search)
 - [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions)
+- [Boats to Save People](https://leetcode.com/problems/boats-to-save-people)
