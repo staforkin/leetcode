@@ -199,3 +199,4 @@ List of problems solved:
 - [Binary Search](https://leetcode.com/problems/binary-search)
 - [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions)
 - [Boats to Save People](https://leetcode.com/problems/boats-to-save-people)
+- [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string)
