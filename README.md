@@ -200,3 +200,4 @@ List of problems solved:
 - [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions)
 - [Boats to Save People](https://leetcode.com/problems/boats-to-save-people)
 - [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string)
+- [Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array)
