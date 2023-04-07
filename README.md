@@ -202,3 +202,4 @@ List of problems solved:
 - [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string)
 - [Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array)
 - [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands)
+- [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves)
