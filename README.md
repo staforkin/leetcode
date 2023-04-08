@@ -203,3 +203,4 @@ List of problems solved:
 - [Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array)
 - [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands)
 - [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves)
+- [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower)
