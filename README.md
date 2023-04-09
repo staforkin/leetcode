@@ -204,3 +204,4 @@ List of problems solved:
 - [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands)
 - [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves)
 - [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower)
+- [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences)
