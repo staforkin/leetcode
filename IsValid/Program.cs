@@ -8,38 +8,34 @@ public class Solution
     {
         var stack = new Stack<char>();
 
-        for (int i = 0; i < s.Length; i++)
+        foreach (char ch in s)
         {
-            if (stack.Count == 0)
+            switch (ch)
             {
-                stack.Push(s[i]);
-            }
-            else
-            {
-                switch (stack.Peek())
-                {
-                    case '(':
-                        if(s[i]==')')
-                            stack.Pop();
-                        else
-                            stack.Push(s[i]);
-                        break;
-                    case '{':
-                        if(s[i]=='}')
-                            stack.Pop();
-                        else
-                            stack.Push(s[i]);
-                        break;
-                    case '[':
-                        if(s[i]==']')
-                            stack.Pop();
-                        else
-                            stack.Push(s[i]);
-                        break;
-                    default:
-                        stack.Push(s[i]);
-                        break;
-                }
+                case '(':
+                case '{':
+                case '[':
+                    stack.Push(ch);
+                    break;
+
+                case ')':
+                    if (stack.Count == 0 || stack.Pop().ToString() != "(")
+                    {
+                        return false;
+                    }
+                    break;
+                case '}':
+                    if (stack.Count == 0 || stack.Pop().ToString() != "{")
+                    {
+                        return false;
+                    }
+                    break;
+                case ']':
+                    if (stack.Count == 0 || stack.Pop().ToString() != "[")
+                    {
+                        return false;
+                    }
+                    break;
             }
 
         }
