@@ -206,3 +206,4 @@ List of problems solved:
 - [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower)
 - [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences)
 - [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string)
+- [Simplify Path](https://leetcode.com/problems/simplify-path)
