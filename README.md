@@ -207,3 +207,4 @@ List of problems solved:
 - [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences)
 - [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string)
 - [Simplify Path](https://leetcode.com/problems/simplify-path)
+- [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences)
