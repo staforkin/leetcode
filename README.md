@@ -208,3 +208,4 @@ List of problems solved:
 - [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string)
 - [Simplify Path](https://leetcode.com/problems/simplify-path)
 - [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences)
+- [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence)
