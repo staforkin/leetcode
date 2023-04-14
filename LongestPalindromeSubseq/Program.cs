@@ -1,4 +1,7 @@
-﻿
+﻿var solution = new Solution();
+Console.WriteLine(solution.LongestPalindromeSubseq("bbbab"));
+
+// https://leetcode.com/problems/longest-palindromic-subsequence
 public class Solution
 {
     public int LongestPalindromeSubseq(string s)
