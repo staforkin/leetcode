@@ -209,3 +209,4 @@ List of problems solved:
 - [Simplify Path](https://leetcode.com/problems/simplify-path)
 - [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences)
 - [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence)
+- [Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles)
