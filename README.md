@@ -211,3 +211,4 @@ List of problems solved:
 - [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence)
 - [Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles)
 - [Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary)
+- [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)
