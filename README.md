@@ -214,3 +214,4 @@ List of problems solved:
 - [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)
 - [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)
 - [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree)
+- [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree)
