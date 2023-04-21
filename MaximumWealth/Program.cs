@@ -7,6 +7,16 @@ public class Solution
 {
     public int MaximumWealth(int[][] accounts)
     {
+        var max = 0;
+        for (int i = 0; i < accounts.Length; i++)
+        {
+            var t = accounts[i].Sum();
+            if (t > max)
+            {
+                max = t;
+            }
+        }
 
+        return max;
     }
 }

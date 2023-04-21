@@ -215,3 +215,4 @@ List of problems solved:
 - [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)
 - [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree)
 - [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree)
+- [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth)
