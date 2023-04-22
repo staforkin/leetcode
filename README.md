@@ -216,3 +216,4 @@ List of problems solved:
 - [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree)
 - [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree)
 - [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth)
+- [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points)

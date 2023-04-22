@@ -7,6 +7,12 @@ public class Solution
 {
     public int MinTimeToVisitAllPoints(int[][] points)
     {
-        return 0;
+        int ans = 0;
+        for (int i = 1; i < points.Length; ++i)
+        {
+            int[] cur = points[i], prev = points[i - 1];
+            ans += Math.Max(Math.Abs(cur[0] - prev[0]), Math.Abs(cur[1] - prev[1]));
+        }
+        return ans;
     }
 }
