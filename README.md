@@ -217,3 +217,4 @@ List of problems solved:
 - [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree)
 - [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth)
 - [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points)
+- [Hamming Distance](https://leetcode.com/problems/hamming-distance)
