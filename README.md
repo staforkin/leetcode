@@ -218,3 +218,4 @@ List of problems solved:
 - [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth)
 - [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points)
 - [Hamming Distance](https://leetcode.com/problems/hamming-distance)
+- [Last Stone Weight](https://leetcode.com/problems/last-stone-weight)
