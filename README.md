@@ -220,3 +220,4 @@ List of problems solved:
 - [Hamming Distance](https://leetcode.com/problems/hamming-distance)
 - [Last Stone Weight](https://leetcode.com/problems/last-stone-weight)
 - [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)
+- [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)
