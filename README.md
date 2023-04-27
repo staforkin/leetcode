@@ -221,3 +221,4 @@ List of problems solved:
 - [Last Stone Weight](https://leetcode.com/problems/last-stone-weight)
 - [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)
 - [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)
+- [Sort the People](https://leetcode.com/problems/sort-the-people)
