@@ -223,3 +223,4 @@ List of problems solved:
 - [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)
 - [Sort the People](https://leetcode.com/problems/sort-the-people)
 - [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array)
+- [Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value)
