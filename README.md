@@ -224,3 +224,4 @@ List of problems solved:
 - [Sort the People](https://leetcode.com/problems/sort-the-people)
 - [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array)
 - [Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value)
+- [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side)
