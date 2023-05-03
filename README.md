@@ -227,3 +227,4 @@ List of problems solved:
 - [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side)
 - [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary)
 - [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array)
+- [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays)
