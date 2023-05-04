@@ -228,3 +228,4 @@ List of problems solved:
 - [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary)
 - [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array)
 - [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays)
+- [Truncate Sentence](https://leetcode.com/problems/truncate-sentence)

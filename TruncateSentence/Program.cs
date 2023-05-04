@@ -6,6 +6,7 @@ public class Solution
 {
     public string TruncateSentence(string s, int k)
     {
-
+        var arr = s.Split(" ", StringSplitOptions.RemoveEmptyEntries);
+        return string.Join(" ", arr.Take(k));
     }
 }
