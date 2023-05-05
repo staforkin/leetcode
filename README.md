@@ -229,3 +229,4 @@ List of problems solved:
 - [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array)
 - [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays)
 - [Truncate Sentence](https://leetcode.com/problems/truncate-sentence)
+- [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length)
