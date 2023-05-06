@@ -230,3 +230,4 @@ List of problems solved:
 - [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays)
 - [Truncate Sentence](https://leetcode.com/problems/truncate-sentence)
 - [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length)
+- [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition)
