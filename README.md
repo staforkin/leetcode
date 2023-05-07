@@ -231,3 +231,4 @@ List of problems solved:
 - [Truncate Sentence](https://leetcode.com/problems/truncate-sentence)
 - [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length)
 - [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition)
+- [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule)
