@@ -7,6 +7,28 @@ public class Solution
 {
     public int DiagonalSum(int[][] mat)
     {
+        //0 0
+        //1 1
+        //2 2
 
+        // 0 2
+        // 1 1
+        // 2 0
+        int n = mat.Length;
+        int res = 0;
+
+        for (int jl = 0, jr = n - 1; jl < n; jl++, jr--)
+        {
+            if (jl == jr)
+            {
+                res += mat[jl][jl];
+            }
+            else
+            {
+                res = res + mat[jl][jl] + mat[jl][jr];
+            }
+        }
+
+        return res;
     }
 }
