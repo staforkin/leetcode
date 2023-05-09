@@ -233,3 +233,4 @@ List of problems solved:
 - [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition)
 - [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule)
 - [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum)
+- [Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing)
