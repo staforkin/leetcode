@@ -237,3 +237,4 @@ List of problems solved:
 - [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii)
 - [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines)
 - [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters)
+- [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings)
