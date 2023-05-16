@@ -6,6 +6,7 @@ public class Solution
 {
     public string SortSentence(string s)
     {
-
+        var dict = s.Split(" ", StringSplitOptions.RemoveEmptyEntries).ToDictionary(i => int.Parse(i.Last().ToString()), j => j[..^1]);
+        return string.Join(" ", dict.OrderBy(i => i.Key).Select(i => i.Value));
     }
 }
