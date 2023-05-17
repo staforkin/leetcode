@@ -6,9 +6,24 @@ Console.WriteLine(solution.PairSum(head));
 // https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list
 public class Solution
 {
+    ListNode ptr = null;
+    int maxSum = 0;
     public int PairSum(ListNode head)
     {
-
+        ptr = head;
+        maxSum = 0;
+        compute(head);
+        return maxSum;
+    }
+    private void compute(ListNode head)
+    {
+        if (head == null)
+        {
+            return;
+        }
+        compute(head.next);
+        maxSum = Math.Max(maxSum, head.val + ptr.val);
+        ptr = ptr.next;
     }
 }
 
