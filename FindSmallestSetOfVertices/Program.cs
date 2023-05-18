@@ -6,6 +6,19 @@ public class Solution
 {
     public IList<int> FindSmallestSetOfVertices(int n, IList<IList<int>> edges)
     {
-
+        var res = new List<int>();
+        int[] seen = new int[n];
+        foreach (var e in edges)
+        {
+            seen[e[1]] = 1;
+        }
+        for (int i = 0; i < n; ++i)
+        {
+            if (seen[i] == 0)
+            {
+                res.Add(i);
+            }
+        }
+        return res;
     }
 }
