@@ -243,3 +243,4 @@ List of problems solved:
 - [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence)
 - [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list)
 - [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes)
+- [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite)
