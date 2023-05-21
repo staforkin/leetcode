@@ -245,3 +245,4 @@ List of problems solved:
 - [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes)
 - [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite)
 - [Evaluate Division](https://leetcode.com/problems/evaluate-division)
+- [Shortest Bridge](https://leetcode.com/problems/shortest-bridge)
