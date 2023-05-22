@@ -1,5 +1,5 @@
 ﻿var solution = new Solution();
-var res = solution.TopKFrequent(new[] { 1, 1, 1, 2, 2, 3 }, 2);
+var res = solution.TopKFrequent2(new[] { 1, 1, 1, 2, 2, 3 }, 2);
 Console.WriteLine(string.Join(",", res));
 
 // https://leetcode.com/problems/top-k-frequent-elements
@@ -20,5 +20,10 @@ public class Solution
             }
         }
         return dict.OrderByDescending(i => i.Value).Take(k).Select(i => i.Key).ToArray();
+    }
+
+    public int[] TopKFrequent2(int[] nums, int k)
+    {
+        return nums.GroupBy(x => x).OrderByDescending(y => y.Count()).Take(k).Select(z => z.Key).ToArray();
     }
 }
