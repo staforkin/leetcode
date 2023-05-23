@@ -246,3 +246,4 @@ List of problems solved:
 - [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite)
 - [Evaluate Division](https://leetcode.com/problems/evaluate-division)
 - [Shortest Bridge](https://leetcode.com/problems/shortest-bridge)
+- [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)
