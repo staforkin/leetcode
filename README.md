@@ -247,3 +247,4 @@ List of problems solved:
 - [Evaluate Division](https://leetcode.com/problems/evaluate-division)
 - [Shortest Bridge](https://leetcode.com/problems/shortest-bridge)
 - [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)
+- [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score)
