@@ -248,3 +248,4 @@ List of problems solved:
 - [Shortest Bridge](https://leetcode.com/problems/shortest-bridge)
 - [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)
 - [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score)
+- [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)
