@@ -250,3 +250,4 @@ List of problems solved:
 - [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score)
 - [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)
 - [Stone Game II](https://leetcode.com/problems/stone-game-ii)
+- [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation)
