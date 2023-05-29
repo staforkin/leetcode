@@ -252,3 +252,4 @@ List of problems solved:
 - [Stone Game II](https://leetcode.com/problems/stone-game-ii)
 - [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation)
 - [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram)
+- [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses)
