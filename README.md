@@ -256,3 +256,4 @@ List of problems solved:
 - [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array)
 - [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays)
 - [Shuffle String](https://leetcode.com/problems/shuffle-string)
+- [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent)
