@@ -257,3 +257,4 @@ List of problems solved:
 - [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays)
 - [Shuffle String](https://leetcode.com/problems/shuffle-string)
 - [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent)
+- [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings)
