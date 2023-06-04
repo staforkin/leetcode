@@ -258,3 +258,4 @@ List of problems solved:
 - [Shuffle String](https://leetcode.com/problems/shuffle-string)
 - [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent)
 - [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings)
+- [Number of Provinces](https://leetcode.com/problems/number-of-provinces)
