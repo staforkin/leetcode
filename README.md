@@ -259,3 +259,4 @@ List of problems solved:
 - [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent)
 - [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings)
 - [Number of Provinces](https://leetcode.com/problems/number-of-provinces)
+- [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line)
