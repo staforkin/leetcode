@@ -261,3 +261,4 @@ List of problems solved:
 - [Number of Provinces](https://leetcode.com/problems/number-of-provinces)
 - [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line)
 - [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence)
+- [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c)
