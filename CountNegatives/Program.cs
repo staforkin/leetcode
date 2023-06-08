@@ -12,6 +12,25 @@ public class Solution
 {
     public int CountNegatives(int[][] grid)
     {
+        // 4  3  2 -1
+        // 3  2  1 -1
+        // 1  1 -1 -2
+        //-1 -1 -2 -3
 
+        int m = grid.Length;
+        int n = grid[0].Length, r = m - 1, c = 0, cnt = 0;
+        while (r >= 0 && c < n)
+        {
+            if (grid[r][c] < 0)
+            {
+                --r;
+                cnt += n - c;
+            }
+            else
+            {
+                ++c;
+            }
+        }
+        return cnt;
     }
 }
