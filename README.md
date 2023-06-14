@@ -265,3 +265,7 @@ List of problems solved:
 - [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix)
 - [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target)
 - [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements)
+- [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs)
+- [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word)
+- [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum)
+- [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst)
