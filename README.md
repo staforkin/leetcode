@@ -269,4 +269,4 @@ List of problems solved:
 - [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word)
 - [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum)
 - [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst)
-- []()
+- [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop)
