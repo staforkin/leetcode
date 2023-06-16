@@ -270,3 +270,4 @@ List of problems solved:
 - [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum)
 - [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst)
 - [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop)
+- [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences)

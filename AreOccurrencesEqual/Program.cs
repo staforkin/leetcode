@@ -6,6 +6,15 @@ public class Solution
 {
     public bool AreOccurrencesEqual(string s)
     {
-
+        var dict = s.GroupBy(i => i);
+        var c = dict.FirstOrDefault().Count();
+        foreach (var d in dict)
+        {
+            if (d.Count() != c)
+            {
+                return false;
+            }
+        }
+        return true;
     }
 }
