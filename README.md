@@ -272,3 +272,4 @@ List of problems solved:
 - [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop)
 - [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences)
 - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number)
+- [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude)
