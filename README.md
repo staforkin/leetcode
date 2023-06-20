@@ -273,3 +273,4 @@ List of problems solved:
 - [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences)
 - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number)
 - [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude)
+- [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping)
