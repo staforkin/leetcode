@@ -274,3 +274,4 @@ List of problems solved:
 - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number)
 - [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude)
 - [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping)
+- [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array)
