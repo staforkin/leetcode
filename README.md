@@ -277,3 +277,4 @@ List of problems solved:
 - [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array)
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)
 - [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers)
+- [Height Checker](https://leetcode.com/problems/height-checker)
