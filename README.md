@@ -279,3 +279,4 @@ List of problems solved:
 - [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers)
 - [Height Checker](https://leetcode.com/problems/height-checker)
 - [Find Common Characters](https://leetcode.com/problems/find-common-characters)
+- [Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes)
