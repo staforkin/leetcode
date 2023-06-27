@@ -14,7 +14,35 @@ public class Solution
 {
     public IList<IList<int>> LevelOrderBottom(TreeNode root)
     {
+        // BFS solution
+        var queue = new Queue<TreeNode>();
+        var wrapList = new List<List<int>>();
 
+        if (root == null)
+        {
+            return wrapList.ToArray();
+        }
+
+        queue.Enqueue(root);
+        while (queue.Any())
+        {
+            int levelNum = queue.Count;
+            var subList = new List<int>();
+            for (int i = 0; i < levelNum; i++)
+            {
+                if (queue.Peek().left != null)
+                {
+                    queue.Enqueue(queue.Peek().left);
+                }
+                if (queue.Peek().right != null)
+                {
+                    queue.Enqueue(queue.Peek().right);
+                }
+                subList.Add(queue.Dequeue().val);
+            }
+            wrapList.Insert(0, subList);
+        }
+        return wrapList.ToArray();
     }
 }
 
