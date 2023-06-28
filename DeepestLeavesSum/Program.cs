@@ -7,13 +7,30 @@ root.left = new TreeNode(2);
 root.left.right = new TreeNode(5);
 root.left.left = new TreeNode(4);
 root.left.left.left = new TreeNode(7);
+Console.WriteLine(solution.DeepestLeavesSum(root));
 
 // https://leetcode.com/problems/deepest-leaves-sum/
 public class Solution
 {
     public int DeepestLeavesSum(TreeNode root)
     {
-
+        int res = 0, i;
+        var q = new LinkedList<TreeNode>();
+        q.AddLast(root);
+        while (q.Any())
+        {
+            for (i = q.Count() - 1, res = 0; i >= 0; --i)
+            {
+                TreeNode node = q.First();
+                q.RemoveFirst();
+                res += node.val;
+                if (node.right != null)
+                    q.AddLast(node.right);
+                if (node.left != null)
+                    q.AddLast(node.left);
+            }
+        }
+        return res;
     }
 }
 
