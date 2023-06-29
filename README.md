@@ -282,3 +282,4 @@ List of problems solved:
 - [Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes)
 - [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)
 - [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum)
+- [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences)

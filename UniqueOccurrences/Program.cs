@@ -6,6 +6,7 @@ public class Solution
 {
     public bool UniqueOccurrences(int[] arr)
     {
-
+        var g = arr.GroupBy(i=>i);
+        return arr.Distinct().Count() == g.Select(i=>i.Count()).Distinct().Count();
     }
 }
