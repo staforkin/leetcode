@@ -284,3 +284,4 @@ List of problems solved:
 - [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum)
 - [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences)
 - [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)
+- [Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies)
