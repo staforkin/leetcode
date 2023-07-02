@@ -9,7 +9,14 @@ public class Solution
 {
     public bool IsUnivalTree(TreeNode root)
     {
+        if (root == null)
+        {
+            return true;
+        }
+        var l = (root.val == root.left?.val) || root.left == null;
+        var r = (root.val == root.right?.val) || root.right == null;
 
+        return l && r && IsUnivalTree(root.left) && IsUnivalTree(root.right);
     }
 }
 

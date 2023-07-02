@@ -285,3 +285,4 @@ List of problems solved:
 - [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences)
 - [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)
 - [Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies)
+- [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree)
