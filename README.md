@@ -286,3 +286,4 @@ List of problems solved:
 - [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)
 - [Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies)
 - [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree)
+- [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings)

@@ -6,6 +6,23 @@ public class Solution
 {
     public int BalancedStringSplit(string s)
     {
-
+        int i = 0;
+        int res = 0;
+        foreach (var c in s)
+        {
+            if (c == 'L')
+            {
+                i--;
+            }
+            else
+            {
+                i++;
+            }
+            if (i == 0)
+            {
+                res++;
+            }
+        }
+        return res;
     }
 }
