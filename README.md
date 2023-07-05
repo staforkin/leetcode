@@ -288,3 +288,4 @@ List of problems solved:
 - [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree)
 - [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings)
 - [Single Number II](https://leetcode.com/problems/single-number-ii)
+- [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)
