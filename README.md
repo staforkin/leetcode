@@ -289,3 +289,4 @@ List of problems solved:
 - [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings)
 - [Single Number II](https://leetcode.com/problems/single-number-ii)
 - [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)
+- [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero)
