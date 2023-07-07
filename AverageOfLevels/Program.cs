@@ -4,6 +4,7 @@ root.left = new TreeNode(2147483647);
 root.right = new TreeNode(2147483647);
 root.right.right = new TreeNode(7);
 root.right.left = new TreeNode(15);
+
 foreach (var item in solution.AverageOfLevels(root))
 {
     Console.WriteLine(item);
