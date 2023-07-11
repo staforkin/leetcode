@@ -294,3 +294,4 @@ List of problems solved:
 - [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number)
 - [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum)
 - [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree)
+- [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency)
