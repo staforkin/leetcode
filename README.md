@@ -296,3 +296,4 @@ List of problems solved:
 - [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree)
 - [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency)
 - [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations)
+- [Water Bottles](https://leetcode.com/problems/water-bottles)
