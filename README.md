@@ -298,3 +298,4 @@ List of problems solved:
 - [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations)
 - [Water Bottles](https://leetcode.com/problems/water-bottles)
 - [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x)
+- [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix)
