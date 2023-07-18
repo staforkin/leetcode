@@ -301,3 +301,4 @@ List of problems solved:
 - [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix)
 - [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)
 - [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii)
+- [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)
