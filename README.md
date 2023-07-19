@@ -302,3 +302,4 @@ List of problems solved:
 - [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)
 - [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii)
 - [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)
+- [Find the Difference](https://leetcode.com/problems/find-the-difference)
