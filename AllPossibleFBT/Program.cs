@@ -7,7 +7,29 @@ public class Solution
 {
     public IList<TreeNode> AllPossibleFBT(int n)
     {
-
+        var res = new List<TreeNode>();
+        if (n == 1)
+        {
+            res.Add(new TreeNode(0));
+            return res;
+        }
+        n = n - 1;
+        for (int i = 1; i < n; i += 2)
+        {
+            var left = AllPossibleFBT(i);
+            var right = AllPossibleFBT(n - i);
+            foreach (TreeNode nl in left)
+            {
+                foreach (TreeNode nr in right)
+                {
+                    TreeNode cur = new TreeNode(0);
+                    cur.left = nl;
+                    cur.right = nr;
+                    res.Add(cur);
+                }
+            }
+        }
+        return res;
     }
 }
 

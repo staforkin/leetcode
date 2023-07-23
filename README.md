@@ -306,3 +306,4 @@ List of problems solved:
 - [Longest Palindrome](https://leetcode.com/problems/longest-palindrome)
 - [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence)
 - [Assign Cookies](https://leetcode.com/problems/assign-cookies)
+- [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees)
