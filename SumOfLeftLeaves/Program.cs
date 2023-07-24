@@ -11,7 +11,28 @@ public class Solution
 {
     public int SumOfLeftLeaves(TreeNode root)
     {
+        if(root.left is null && root.right is null){
+            return 0;
+        }
+        return HelperLeft(root.left)+Helper(root.right);
+    }
 
+    public int HelperLeft(TreeNode root)
+    {
+        if (root is null)
+        {
+            return 0;
+        }
+        return root.left is null && root.right is null ? root.val : HelperLeft(root.left) + Helper(root.right);
+    }
+
+    public int Helper(TreeNode root)
+    {
+        if (root is null)
+        {
+            return 0;
+        }
+        return HelperLeft(root.left) + Helper(root.right);
     }
 }
 
