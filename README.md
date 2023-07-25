@@ -308,3 +308,4 @@ List of problems solved:
 - [Assign Cookies](https://leetcode.com/problems/assign-cookies)
 - [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees)
 - [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)
+- [Island Perimeter](https://leetcode.com/problems/island-perimeter)
