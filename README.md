@@ -310,3 +310,4 @@ List of problems solved:
 - [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)
 - [Island Perimeter](https://leetcode.com/problems/island-perimeter)
 - [Number Complement](https://leetcode.com/problems/number-complement)
+- [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree)
