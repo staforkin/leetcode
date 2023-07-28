@@ -311,3 +311,4 @@ List of problems solved:
 - [Island Perimeter](https://leetcode.com/problems/island-perimeter)
 - [Number Complement](https://leetcode.com/problems/number-complement)
 - [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree)
+- [Relative Ranks](https://leetcode.com/problems/relative-ranks)
