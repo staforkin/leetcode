@@ -312,3 +312,4 @@ List of problems solved:
 - [Number Complement](https://leetcode.com/problems/number-complement)
 - [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree)
 - [Relative Ranks](https://leetcode.com/problems/relative-ranks)
+- [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)
