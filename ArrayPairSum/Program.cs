@@ -6,6 +6,12 @@ public class Solution
 {
     public int ArrayPairSum(int[] nums)
     {
-
+        int res = default;
+        Array.Sort(nums);
+        for (int i = 0; i < nums.Length; i += 2)
+        {
+            res += nums[i];
+        }
+        return res;
     }
 }
