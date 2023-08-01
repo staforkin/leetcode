@@ -315,3 +315,4 @@ List of problems solved:
 - [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)
 - [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii)
 - [Array Partition](https://leetcode.com/problems/array-partition)
+- [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists)
