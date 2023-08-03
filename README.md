@@ -316,3 +316,4 @@ List of problems solved:
 - [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii)
 - [Array Partition](https://leetcode.com/problems/array-partition)
 - [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists)
+- [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal)
