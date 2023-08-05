@@ -9,7 +9,52 @@ public class Solution
 {
     public bool FindTarget(TreeNode root, int k)
     {
+        if (root == null)
+        {
+            return false;
+        }
+        var l_stack = new Stack<TreeNode>();
+        var r_stack = new Stack<TreeNode>();
+        stackAdd(l_stack, root, true);
+        stackAdd(r_stack, root, false);
+        while (l_stack.Peek() != r_stack.Peek())
+        {
+            int n = l_stack.Peek().val + r_stack.Peek().val;
+            if (n == k)
+            {
+                return true;
+            }
+            else if (n > k)
+            {
+                stackNext(r_stack, false);
+            }
+            else
+            {
+                stackNext(l_stack, true);
+            }
+        }
+        return false;
+    }
+    private void stackAdd(Stack<TreeNode> stack, TreeNode node, bool isLeft)
+    {
+        while (node != null)
+        {
+            stack.Push(node);
+            node = (isLeft) ? node.left : node.right;
+        }
+    }
 
+    private void stackNext(Stack<TreeNode> stack, bool isLeft)
+    {
+        TreeNode node = stack.Pop();
+        if (isLeft)
+        {
+            stackAdd(stack, node.right, isLeft);
+        }
+        else
+        {
+            stackAdd(stack, node.left, isLeft);
+        }
     }
 }
 
