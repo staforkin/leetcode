@@ -326,3 +326,4 @@ List of problems solved:
 - [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap)
 - [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences)
 - [Lemonade Change](https://leetcode.com/problems/lemonade-change)
+- [Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array)
