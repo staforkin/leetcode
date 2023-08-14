@@ -322,7 +322,7 @@ List of problems solved:
 - [Rotate String](https://leetcode.com/problems/rotate-string)
 - [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii)
 - [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters)
-
+- [Monotonic Array](https://leetcode.com/problems/monotonic-array/)
 - [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap)
 - [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences)
 - [Lemonade Change](https://leetcode.com/problems/lemonade-change)
