@@ -328,3 +328,4 @@ List of problems solved:
 - [Lemonade Change](https://leetcode.com/problems/lemonade-change)
 - [Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array)
 - [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)
+- [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence)
