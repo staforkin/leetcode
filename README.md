@@ -330,3 +330,4 @@ List of problems solved:
 - [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)
 - [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence)
 - [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern)
+- [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers)
