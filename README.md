@@ -334,3 +334,4 @@ List of problems solved:
 - [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers)
 - [Ransom Note](https://leetcode.com/problems/ransom-note)
 - [Long Pressed Name](https://leetcode.com/problems/long-pressed-name)
+- [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree)
