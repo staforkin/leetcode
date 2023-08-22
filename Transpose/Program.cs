@@ -13,6 +13,19 @@ public class Solution
 {
     public int[][] Transpose(int[][] matrix)
     {
-
+        int M = matrix.Length, N = matrix[0].Length;
+        int[][] B = new int[N][];
+        for (int i = 0; i < N; i++)
+        {
+            B[i] = new int[M];
+        }
+        for (int j = 0; j < N; j++)
+        {
+            for (int i = 0; i < M; i++)
+            {
+                B[j][i] = matrix[i][j];
+            }
+        }
+        return B;
     }
 }

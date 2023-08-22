@@ -335,3 +335,4 @@ List of problems solved:
 - [Ransom Note](https://leetcode.com/problems/ransom-note)
 - [Long Pressed Name](https://leetcode.com/problems/long-pressed-name)
 - [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree)
+- [Transpose Matrix](https://leetcode.com/problems/transpose-matrix)
